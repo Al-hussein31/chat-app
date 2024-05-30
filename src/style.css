@@ -6,6 +6,7 @@
 
 :root {
   --color-primary-pale: hsl(276, 100%, 81%);
+  
   --color-primary-moderate: hsl(276, 55%, 52%);
   --color-primary-desaturated: hsl(271, 15%, 43%);
   --color-primary-grayish-blue: hsl(206, 6%, 79%);
